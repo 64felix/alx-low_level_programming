@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /* puts to print */
 int main(void)
 {
